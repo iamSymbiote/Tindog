@@ -14,10 +14,8 @@ BUT I changed this project to a more responsive and give it a bit different desi
 
 
 
-DEMO: https://lnkd.in/gqdYCqMc
+DEMO: https://iamsymbiote.github.io/Tindog/
 
-
-GITHUB: https://lnkd.in/gqNK8r75
 
 
 On this project I used as you can see the basics;
